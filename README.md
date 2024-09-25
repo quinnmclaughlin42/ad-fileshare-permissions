@@ -3,7 +3,7 @@
 </p>
 
 <h1>Configuring Network File Sharing and Permissions</h1>
-This tutorial outlines the implementation of network file sharing, and configuring access to users within the network<br />
+This walkthrough outlines the implementation of network file sharing, and configuring access to users within the network<br />
 
 
 <h2>Video Demonstration</h2>
