@@ -29,7 +29,7 @@ This walkthrough outlines the implementation of network file sharing, and config
 4. Add a new user to a specified group (in this case, ‘accountants')
 5. Showcase the change in access due to new group permissions
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Deployment and Configuration Explanation</h2>
 
 <p>
 <img src="https://github.com/user-attachments/assets/26cb6a97-ecda-42d7-b7e7-b6bc07a1dee5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
