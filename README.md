@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://www.kakasoft.com/wp-content/uploads/2021/09/image-20-1024x516.png" height=45% width=45% alt="NTFS Permissions Icons"/>
 </p>
 
-<h1>Configuring Network File Shares and Permissions</h1>
+<h1>Configuring Network File Sharing and Permissions</h1>
 This tutorial outlines the implementation of network file sharing, and configuring access to users within the network<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Showcasing Network File Shares and Permissions Using Active Directory - Quinn McLaughlin](https://youtu.be/BZn1JZLmBnQ)
+- ### [YouTube: Showcasing Network File Sharing and Permissions Using Active Directory - Quinn McLaughlin](https://youtu.be/BZn1JZLmBnQ)
 
 <h2>Environments and Technologies Used</h2>
 
